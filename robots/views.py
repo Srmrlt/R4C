@@ -1,10 +1,11 @@
 import json
 
 from django.core.exceptions import ValidationError
-from django.http import JsonResponse
+from django.http import FileResponse, JsonResponse
+from django.utils.timezone import now
 from django.views import View
 
-from robots.services import RobotCreate
+from robots.services import ProductionSummaryService, RobotCreate
 from robots.validators import RobotDataValidator
 
 
@@ -36,3 +37,19 @@ class RobotCreateView(View):
             return JsonResponse({"error": "Invalid JSON data"}, status=400)
         except Exception as e:
             return JsonResponse({"error": f"An error occurred: {str(e)}"}, status=500)
+
+
+class ProductionSummaryView(View):
+    """
+    A view to generate and return the production summary Excel file.
+    """
+    @staticmethod
+    def get():
+        file = ProductionSummaryService.generate_production_summary_excel()
+        filename = f"production_summary_{now().date()}.xlsx"
+        return FileResponse(
+            file,
+            as_attachment=True,
+            filename=filename,
+            content_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        )
