@@ -1,0 +1,503 @@
+[
+    {
+        "model": "robots.robot",
+        "pk": 1,
+        "fields": {
+            "serial": "RM-01",
+            "model": "RM",
+            "version": "01",
+            "created": "2024-12-05T08:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 2,
+        "fields": {
+            "serial": "RM-02",
+            "model": "RM",
+            "version": "02",
+            "created": "2024-12-05T09:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 3,
+        "fields": {
+            "serial": "RM-03",
+            "model": "RM",
+            "version": "03",
+            "created": "2024-12-06T10:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 4,
+        "fields": {
+            "serial": "RM-04",
+            "model": "RM",
+            "version": "04",
+            "created": "2024-12-06T11:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 5,
+        "fields": {
+            "serial": "RM-05",
+            "model": "RM",
+            "version": "05",
+            "created": "2024-12-07T12:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 6,
+        "fields": {
+            "serial": "RX-01",
+            "model": "RX",
+            "version": "01",
+            "created": "2024-12-07T13:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 7,
+        "fields": {
+            "serial": "RX-02",
+            "model": "RX",
+            "version": "02",
+            "created": "2024-12-08T14:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 8,
+        "fields": {
+            "serial": "RX-03",
+            "model": "RX",
+            "version": "03",
+            "created": "2024-12-08T15:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 9,
+        "fields": {
+            "serial": "RM-01",
+            "model": "RM",
+            "version": "01",
+            "created": "2024-12-09T16:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 10,
+        "fields": {
+            "serial": "RM-02",
+            "model": "RM",
+            "version": "02",
+            "created": "2024-12-09T17:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 11,
+        "fields": {
+            "serial": "RX-01",
+            "model": "RX",
+            "version": "01",
+            "created": "2024-12-10T08:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 12,
+        "fields": {
+            "serial": "RM-03",
+            "model": "RM",
+            "version": "03",
+            "created": "2024-12-11T09:00:00Z"
+        }
+    },
+
+    {
+        "model": "robots.robot",
+        "pk": 13,
+        "fields": {
+            "serial": "RM-04",
+            "model": "RM",
+            "version": "04",
+            "created": "2024-12-12T10:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 14,
+        "fields": {
+            "serial": "RM-05",
+            "model": "RM",
+            "version": "05",
+            "created": "2024-12-12T11:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 15,
+        "fields": {
+            "serial": "RS-01",
+            "model": "RS",
+            "version": "01",
+            "created": "2024-12-13T12:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 16,
+        "fields": {
+            "serial": "RS-02",
+            "model": "RS",
+            "version": "02",
+            "created": "2024-12-13T13:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 17,
+        "fields": {
+            "serial": "RT-01",
+            "model": "RT",
+            "version": "01",
+            "created": "2024-12-14T14:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 18,
+        "fields": {
+            "serial": "RT-02",
+            "model": "RT",
+            "version": "02",
+            "created": "2024-12-14T15:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 19,
+        "fields": {
+            "serial": "RS-03",
+            "model": "RS",
+            "version": "03",
+            "created": "2024-12-15T16:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 20,
+        "fields": {
+            "serial": "RM-01",
+            "model": "RM",
+            "version": "01",
+            "created": "2024-12-15T17:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 21,
+        "fields": {
+            "serial": "RS-04",
+            "model": "RS",
+            "version": "04",
+            "created": "2024-12-16T08:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 22,
+        "fields": {
+            "serial": "RM-02",
+            "model": "RM",
+            "version": "02",
+            "created": "2024-12-17T09:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 23,
+        "fields": {
+            "serial": "RS-01",
+            "model": "RS",
+            "version": "01",
+            "created": "2024-12-17T10:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 24,
+        "fields": {
+            "serial": "RT-01",
+            "model": "RT",
+            "version": "01",
+            "created": "2024-12-18T11:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 25,
+        "fields": {
+            "serial": "RM-03",
+            "model": "RM",
+            "version": "03",
+            "created": "2024-12-18T12:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 26,
+        "fields": {
+            "serial": "RS-02",
+            "model": "RS",
+            "version": "02",
+            "created": "2024-12-19T13:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 27,
+        "fields": {
+            "serial": "RS-03",
+            "model": "RS",
+            "version": "03",
+            "created": "2024-12-19T14:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 28,
+        "fields": {
+            "serial": "RT-02",
+            "model": "RT",
+            "version": "02",
+            "created": "2024-12-19T15:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 29,
+        "fields": {
+            "serial": "RS-04",
+            "model": "RS",
+            "version": "04",
+            "created": "2024-12-19T16:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 30,
+        "fields": {
+            "serial": "RM-04",
+            "model": "RM",
+            "version": "04",
+            "created": "2024-12-19T17:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 31,
+        "fields": {
+            "serial": "RM-05",
+            "model": "RM",
+            "version": "05",
+            "created": "2024-12-12T08:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 32,
+        "fields": {
+            "serial": "RM-01",
+            "model": "RM",
+            "version": "01",
+            "created": "2024-12-12T09:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 33,
+        "fields": {
+            "serial": "RS-01",
+            "model": "RS",
+            "version": "01",
+            "created": "2024-12-13T10:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 34,
+        "fields": {
+            "serial": "RT-01",
+            "model": "RT",
+            "version": "01",
+            "created": "2024-12-14T11:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 35,
+        "fields": {
+            "serial": "RS-02",
+            "model": "RS",
+            "version": "02",
+            "created": "2024-12-15T12:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 36,
+        "fields": {
+            "serial": "RS-03",
+            "model": "RS",
+            "version": "03",
+            "created": "2024-12-16T13:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 37,
+        "fields": {
+            "serial": "RT-02",
+            "model": "RT",
+            "version": "02",
+            "created": "2024-12-17T14:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 38,
+        "fields": {
+            "serial": "RM-02",
+            "model": "RM",
+            "version": "02",
+            "created": "2024-12-17T15:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 39,
+        "fields": {
+            "serial": "RS-04",
+            "model": "RS",
+            "version": "04",
+            "created": "2024-12-18T16:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 40,
+        "fields": {
+            "serial": "RM-03",
+            "model": "RM",
+            "version": "03",
+            "created": "2024-12-19T17:30:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 41,
+        "fields": {
+            "serial": "RM-04",
+            "model": "RM",
+            "version": "04",
+            "created": "2024-12-12T10:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 42,
+        "fields": {
+            "serial": "RM-05",
+            "model": "RM",
+            "version": "05",
+            "created": "2024-12-13T11:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 43,
+        "fields": {
+            "serial": "RS-01",
+            "model": "RS",
+            "version": "01",
+            "created": "2024-12-14T12:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 44,
+        "fields": {
+            "serial": "RS-02",
+            "model": "RS",
+            "version": "02",
+            "created": "2024-12-15T13:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 45,
+        "fields": {
+            "serial": "RS-03",
+            "model": "RS",
+            "version": "03",
+            "created": "2024-12-16T14:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 46,
+        "fields": {
+            "serial": "RT-01",
+            "model": "RT",
+            "version": "01",
+            "created": "2024-12-17T15:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 47,
+        "fields": {
+            "serial": "RT-02",
+            "model": "RT",
+            "version": "02",
+            "created": "2024-12-18T16:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 48,
+        "fields": {
+            "serial": "RM-01",
+            "model": "RM",
+            "version": "01",
+            "created": "2024-12-19T17:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 49,
+        "fields": {
+            "serial": "RS-04",
+            "model": "RS",
+            "version": "04",
+            "created": "2024-12-19T18:00:00Z"
+        }
+    },
+    {
+        "model": "robots.robot",
+        "pk": 50,
+        "fields": {
+            "serial": "RT-01",
+            "model": "RT",
+            "version": "01",
+            "created": "2024-12-19T19:00:00Z"
+        }
+    }
+]
